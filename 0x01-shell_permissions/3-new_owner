@@ -1,3 +1,0 @@
-cd system_engineering-devops/0x01-shell_permissions
-echo -e '#!/bin/bash\nchown betty hello' > 3-new_owner
-chmod +x 3-new_owner
